@@ -3,6 +3,9 @@ public class Main {
 
         System.out.println("я люблю Питер");
         System.out.println("ляпольд");
+        System.out.println("kzkkz" +
+                "z"
+        );
 
     }
 
